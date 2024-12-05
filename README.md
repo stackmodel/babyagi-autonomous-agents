@@ -8,8 +8,6 @@ In this implementation, I made few improvements:
   -  Simplified the process by allowing the **objective** to be controlled through the .env file, eliminating the need to modify the code directly.
   -  Moved away from the notebook-based approach to a more structured Python script.
 
-These changes demonstrate how to build a more flexible and secure BabyAGI implementation while making it easier to customize and scale.
-
 **Prerequisites**
 
 Before running the code, make sure to complete the following:
