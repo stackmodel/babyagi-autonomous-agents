@@ -1,0 +1,6 @@
+langchain
+langchain-aws
+langchain_experimental
+faiss-cpu 
+google-search-results
+streamlit
