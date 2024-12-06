@@ -2,7 +2,7 @@
 
 **Overview**
 
-This repository was created after exploring the [BabyAGI](https://github.com/yoheinakajima/babyagi) project by Yohei Nakajima and studying the [LangChain cookbook](https://github.com/langchain-ai/langchain/blob/master/cookbook/baby_agi.ipynb?ref=blog.langchain.dev), which demonstrates how easily different models and vector stores can be swapped out. 
+This repository was created after exploring the [BabyAGI](https://github.com/yoheinakajima/babyagi) project by Yohei Nakajima and studying the [LangChain cookbook](https://github.com/langchain-ai/langchain/blob/master/cookbook/baby_agi_with_agent.ipynb), which demonstrates how easily different models and vector stores can be swapped out. 
 
 In this implementation, I made few improvements:
   -  Integrated Amazon Bedrock to leverage its benefits, such as access to foundation models, model customization, and improved privacy.
