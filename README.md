@@ -16,7 +16,6 @@ Before running the code, make sure to complete the following:
   - [AWS CLI Setup](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html): Install and configure the AWS Command Line Interface (CLI) with the appropriate credentials.
   - AWS Bedrock Access: You must have access to Amazon Bedrock and the appropriate credentials to use its models, including the Anthropic Claude Sonnet model.
   - SerpAPI Setup: You need to have a valid SerpAPI API key to access the search functionality. You can get it from [SerpAPI](https://serpapi.com/).
-  - Environment Variables: Create a .env file in the root of your project to store sensitive data like your SerpAPI API key and the objective for the BabyAGI agent.
   - Environment Variables: Rename .env.example to .env file in the root of your project to store your SerpAPI API key and objective for the BabyAGI agent.
     Example `.env` file:
 
