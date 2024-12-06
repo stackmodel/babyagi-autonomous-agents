@@ -1,3 +1,15 @@
+"""
+Author: stackmodel
+
+Credits:
+This project is built upon the following resources and contributions:
+  -  BabyAGI by Yohei Nakajima: The original concept and implementation of BabyAGI, framework for a self-building autonomous agent, was developed by Yohei Nakajima. 
+     You can find more about the original project here -> (https://github.com/yoheinakajima/babyagi).
+  -  LangChain: This project utilizes LangChain, a powerful framework for building language model-powered applications.
+     You can find more information here (https://github.com/langchain-ai/langchain) and the 
+     cookbook [here](https://github.com/langchain-ai/langchain/blob/master/cookbook/baby_agi_with_agent.ipynb).
+
+"""
 from langchain.chains import LLMChain
 from langchain.prompts import PromptTemplate
 from langchain_experimental.autonomous_agents import BabyAGI
