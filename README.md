@@ -1,3 +1,5 @@
+**Build Your Own Autonomous Research Companion**
+
 **Overview**
 
 This repository was created after exploring the [BabyAGI](https://github.com/yoheinakajima/babyagi) project by Yohei Nakajima and studying the [LangChain cookbook](https://github.com/langchain-ai/langchain/blob/master/cookbook/baby_agi.ipynb?ref=blog.langchain.dev), which demonstrates how easily different models and vector stores can be swapped out. 
