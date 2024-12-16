@@ -4,3 +4,4 @@ langchain_experimental
 faiss-cpu 
 google-search-results
 streamlit
+python-dotenv
